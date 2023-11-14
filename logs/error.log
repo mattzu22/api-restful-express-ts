@@ -1,0 +1,7 @@
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "12312334123312" (type string) at path "_id" for model "Movie"[39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "12312334123312" (type string) at path "_id" for model "Movie"[39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "231213" (type string) at path "_id" for model "Movie"[39m

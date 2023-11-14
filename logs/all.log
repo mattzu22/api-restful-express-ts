@@ -1,0 +1,544 @@
+2023-11-13 17:11 - [32minfo[39m - [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [31merror[39m: [31mNão foi possível conectar error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster1.xjtxyjv.mongod.net[39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 17:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 17:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [35mhttp[39m: [35mGET /api/test 200 15 - 1.999 ms[39m
+[35m[39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [35mhttp[39m: [35mGET /movie 404 144 - 2.342 ms[39m
+[35m[39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [35mhttp[39m: [35mGET /api/movie 200 26 - 1.987 ms[39m
+[35m[39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [35mhttp[39m: [35mPOST /api/movie 200 26 - 2.002 ms[39m
+[35m[39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [35mhttp[39m: [35mPOST /api/movie 200 26 - 2.032 ms[39m
+[35m[39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 18:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 18:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32m{ data: { title: 'vinagores' } }[39m
+2023-11-13 19:11 - [35mhttp[39m: [35mPOST /api/movie 200 7 - 4.019 ms[39m
+[35m[39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 462.935 ms[39m
+[35m[39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 19:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 19:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 832.569 ms[39m
+[35m[39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie 201 142 - 114.839 ms[39m
+[35m[39m
+2023-11-13 22:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 22:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 22:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 22:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 22:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 22:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 22:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 22:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 22:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 22:11 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 154 - 139.850 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 154 - 134.490 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 71 - 1.228 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 99 - 5.829 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 280 - 134.594 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 59 - 6.319 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 303 - 132.273 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 303 - 141.344 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 337 - 127.621 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 1.208 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 0.667 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 0.631 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 429 - 136.235 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie 201 429 - 757.942 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mPOST /api/movie/12312334123312 404 164 - 2.264 ms[39m
+[35m[39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "12312334123312" (type string) at path "_id" for model "Movie"[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/12312334123312 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "12312334123312" (type string) at path "_id" for model "Movie"[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/12312334123312 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [31merror[39m: [31mError no sistema Cast to ObjectId failed for value "231213" (type string) at path "_id" for model "Movie"[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/231213 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/ 404 149 - 2.610 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/6552d7a3a0ff2c41ac3bc6f4 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/6552d7a3a0ff2c41ac3bc6f4 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/6552d7a3a0ff2c41ac3bc6f4 - - - - ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/6552d7a3a0ff2c41ac3bc6f4 200 337 - 128.195 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie/6552d7a3a0ff2c41ac3bc6f6 404 34 - 115.187 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie 404 148 - 2.328 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mGET /api/movie 200 2845 - 2213.462 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mDELETE /api/movie/6552a0669b5fb112cf1f6ffb 200 15 - 128.021 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [35mhttp[39m: [35mDELETE /api/movie/6552a0669b5fb112cf1f6ffb 200 30 - 129.229 ms[39m
+[35m[39m
+2023-11-13 23:11 - [35mhttp[39m: [35mDELETE /api/movie/6552a0669b5fb112cf1f6ffb 200 30 - 118.873 ms[39m
+[35m[39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-13 23:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-13 23:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [35mhttp[39m: [35mDELETE /api/movie/6552a0669b5fb112cf1f6ffb 200 37 - 236.372 ms[39m
+[35m[39m
+2023-11-14 00:11 - [35mhttp[39m: [35mDELETE /api/movie/6552a0669b5fb112cf1f6ffb 404 34 - 108.231 ms[39m
+[35m[39m
+2023-11-14 00:11 - [35mhttp[39m: [35mDELETE /api/movie/6552d87abbaa245795ef0969 200 37 - 219.933 ms[39m
+[35m[39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 00:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 00:11 - [35mhttp[39m: [35mDELETE /api/movie/6552d87abbaa245795ef0969 404 34 - 117.720 ms[39m
+[35m[39m
+2023-11-14 01:11 - [35mhttp[39m: [35mDELETE /api/movie/6552c6e2cc25eab601157007 200 37 - 129.667 ms[39m
+[35m[39m
+2023-11-14 01:11 - [35mhttp[39m: [35mDELETE /api/movie/6552c6e2cc25eab601157007 404 34 - 113.829 ms[39m
+[35m[39m
+2023-11-14 01:11 - [35mhttp[39m: [35mDELETE /api/movie/6552c6e2cc25eab601157007 404 34 - 108.713 ms[39m
+[35m[39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [35mhttp[39m: [35mPATCH /api/movie/6552c6eecc25eab601157009 200 37 - 117.972 ms[39m
+[35m[39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [35mhttp[39m: [35mPATCH /api/movie/6552c6eecc25eab601157009 200 39 - 118.904 ms[39m
+[35m[39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
+2023-11-14 01:11 - [35mhttp[39m: [35mPATCH /api/movie/6552c6eecc25eab601157009 200 30 - 229.093 ms[39m
+[35m[39m
+2023-11-14 01:11 - [32minfo[39m: [32mconectou com o banco![39m
+2023-11-14 01:11 - [32minfo[39m: [32mservidor rodando![39m
